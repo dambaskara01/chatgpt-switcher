@@ -54,9 +54,3 @@ Since this extension is not yet published on the Chrome Web Store, you can load 
 - **Platform**: Google Chrome Extension (Manifest V3)
 - **Language**: Vanilla JavaScript, HTML5, CSS3 (Lightweight, zero external dependencies)
 - **APIs**: Chrome Cookies API, Chrome Storage API, Chrome Tabs & Scripting API
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
